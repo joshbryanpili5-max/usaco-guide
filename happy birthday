@@ -1,0 +1,12 @@
+.birthday-button__cake {
+position: absolute;
+bottom: 0;
+left; 50%;
+transform: translate(-50%, 0);
+width: 289.5px;
+display: none;
+}
+.cake_eye-body{
+fill: var(--stroke);
+}
+
